@@ -5,41 +5,39 @@
 # Basics
 
 #### Link to the GitHub Repository for the Project
-[palette-picker]()
+[palette-picker](https://github.com/spenserleighton1/pallete-picker)
 
 #### Link to the Deployed Application
-[heroku]()
+[heroku](https://spenser-palette-picker.herokuapp.com/)
 
 #### Link to your annotated server file
-[annotated server file]()
+[annotated server file](https://github.com/spenserleighton1/pallete-picker/blob/master/server.js)
 
 ## Completion
 
 #### Were you able to complete the base functionality?
 
-If not, explain what is missing and why.
+yes
 
 #### Which extensions, if any, did you complete?
 
 # Code Quality
 
 #### Link to a specific block of your code on GitHub that you are proud of
-[happy code]()
+[happy code](https://github.com/spenserleighton1/pallete-picker/blob/master/server.js)
 
 * Why were you proud of this piece of code?
-
-#### Link to a specific block of your code on GitHub that you feel not great about
-[sad code]()
-
-* Why do you feel not awesome about the code? What challenges did you face trying to write/refactor it?
-
+I wrote a server.
 #### Attach a screenshot or paste the output from your terminal of the result of your test-suite running.
 
 [test suite]()
+  12 passing (3s)
 
 #### Link to Design Inspiration
 
 * Show us what you used as design inspiration (another color picker site, a dribbble UI element, a user flow, etc.) and explain what you stole from it
+https://dribbble.com/shots/1072086-Button-with-edge
+I liked the arrow
 
 #### Please feel free to ask any other questions or make any other statements below!
 
